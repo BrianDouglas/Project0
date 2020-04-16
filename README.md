@@ -19,9 +19,10 @@ I have created I webpage of my favorite things!
     -I ran out of content ideas but this page is set up and ready for whatever I want to add.
 
 -Style! (style.scss)
-    -I included variables for background color and text color
-    -I included variables for the nav bar names of the pages, as I was unsure what would go in there at first
-    -I created a boxes parent that I derived my nav box from
-    -I have multipul examples of scss nesting (#ordered-list #nav-box and table)
+    -included variables for background color and text color
+    -included variables for the nav bar names of the pages, as I was unsure what would go in there at first
+    -created a boxes parent that I derived my nav box from
+    -have multipul examples of scss nesting (#ordered-list #nav-box and table)
     -added some nice hover effects
     -most of the rearrangement due to sreensize was done with bootstrap, however I did include one @media query to shorten the page title if someone is on a small screen
+    -added a font from google for a signature
