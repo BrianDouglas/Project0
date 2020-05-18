@@ -2,7 +2,8 @@
 
 Web Programming with Python and JavaScript
 
-I have created I webpage of my favorite things!
+I have created I webpage of my favorite things! My reintroduction into webprogramming after a few years off.
+https://briandouglas.github.io/Project0/
 
 -The home page (index.html) 
     -A short profile of me! It has an image of me and some info about my background. I first created my nav bar while working on this page. I make extensive use of bootstrap 4 grid here to layout everything dynamically. I quite happy with how the content stacks as you resize the window. Maybe the image gets too big, though.
